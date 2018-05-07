@@ -2,17 +2,20 @@
   "in_p": {
     "webapp-part":{
       "r":"pr"
-    },
-    "my-web":{
-      "r":"pu"
-    },
-    "sublimetext3plugin":{
-      "r":"pu"
     }
   },
   "c": {
+  	"idm_patcher":{
+  		"r":"pu"
+  	},
+  	"my-web":{
+      "r":"pu"
+    },
+  	"sublimetext3plugin":{
+      "r":"pu"
+    },
     "cli-website":{
-            "r":"pu"
+        "r":"pu"
     },
     "camper":{
       "r":"pu"
