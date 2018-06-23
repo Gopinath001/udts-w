@@ -1,27 +1,38 @@
 {
-  "in_p": {
-    "webapp-part":{
-      "r":"pr"
+    "webapp-part":
+    {
+        "r": "pr",
+        "s": "c"
+    },
+
+    "idm_patcher":
+    {
+        "r": "pu",
+        "s": "c"
+    },
+    "my-web":
+    {
+        "r": "pu",
+        "s": "c"
+    },
+    "sublimetext3plugin":
+    {
+        "r": "pu",
+        "s": "c"
+    },
+    "cli-website":
+    {
+        "r": "pu",
+        "s": "c"
+    },
+    "camper":
+    {
+        "r": "pu",
+        "s": "c"
+    },
+    "py-imp-sev-cate":
+    {
+        "r": "pu",
+        "s": "c"
     }
-  },
-  "c": {
-  	"idm_patcher":{
-  		"r":"pu"
-  	},
-  	"my-web":{
-      "r":"pu"
-    },
-  	"sublimetext3plugin":{
-      "r":"pu"
-    },
-    "cli-website":{
-        "r":"pu"
-    },
-    "camper":{
-      "r":"pu"
-    },
-    "py-imp-sev-cate":{
-      "r":"pu"
-    }
-  }
 }
