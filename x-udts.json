@@ -1,4 +1,11 @@
 {
+
+    "php-management-system":
+    {
+    	"r": "pu",
+    	"s": "c"
+    },
+
     "webapp-part":
     {
         "r": "pr",
